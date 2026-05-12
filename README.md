@@ -1,4 +1,5 @@
 Employee Management System - REST API
+
 ​This is a robust Backend RESTful API built for managing employee records efficiently. It allows users to perform standard CRUD operations through professional API endpoints.
 
 ​🚀 Live Demo
@@ -11,12 +12,14 @@ Add new employee records with details like Name, Email, and Department.
 ​Delete: Remove employee records from the database.
 
 ​🛠 Tech Stack
+
 ​Language: Java
 ​Framework: Spring Boot
 ​Database: MySQL / PostgreSQL (via JPA)
 ​ORM: Hibernate
 
 ​Testing Tool: Postman
+
 ​📸 API Testing (Postman)
 ​Tip: You can drag and drop your Postman screenshots here.
 ​⚙️ Installation & Setup
