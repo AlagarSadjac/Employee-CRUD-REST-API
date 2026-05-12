@@ -10,15 +10,16 @@ Employee Management System - REST API
 ​✨ Features Create
 
 Add new employee records with details like Name, Email, and Department.
-​READ
+
+​Read
 
 Retrieve a list of all employees or search for a specific employee by ID.
 
-​UPDATE
+​Update
 
 Modify existing employee information.
 
-​DELETE
+​Delete
 
 Remove employee records from the database.
 
