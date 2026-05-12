@@ -3,14 +3,24 @@ Employee Management System - REST API
 ​       This is a robust Backend RESTful API built for managing employee records efficiently. It allows users to perform standard CRUD operations through professional API endpoints.
 
 ​🚀 Live Demo
-​Link: (https://employee-crud-rest-api.onrender.com)
+
+​Link
+(https://employee-crud-rest-api.onrender.com)
 
 ​✨ Features Create
 
 Add new employee records with details like Name, Email, and Department.
-​Read: Retrieve a list of all employees or search for a specific employee by ID.
-​Update: Modify existing employee information.
-​Delete: Remove employee records from the database.
+​READ
+
+Retrieve a list of all employees or search for a specific employee by ID.
+
+​UPDATE
+
+Modify existing employee information.
+
+​DELETE
+
+Remove employee records from the database.
 
 ​🛠 Tech Stack
 
