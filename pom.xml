@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.alaga</groupId>
-	<artifactId>Employee-CRUD-REST-API</artifactId>
+	<artifactId>Employee_CRUD_REST_API</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name/>
 	<description/>
