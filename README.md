@@ -1,11 +1,12 @@
 Employee Management System - REST API
 
-​This is a robust Backend RESTful API built for managing employee records efficiently. It allows users to perform standard CRUD operations through professional API endpoints.
+​       This is a robust Backend RESTful API built for managing employee records efficiently. It allows users to perform standard CRUD operations through professional API endpoints.
 
 ​🚀 Live Demo
 ​Link: (https://employee-crud-rest-api.onrender.com)
 
 ​✨ Features Create
+
 Add new employee records with details like Name, Email, and Department.
 ​Read: Retrieve a list of all employees or search for a specific employee by ID.
 ​Update: Modify existing employee information.
@@ -18,11 +19,7 @@ Add new employee records with details like Name, Email, and Department.
 ​Database: MySQL / PostgreSQL (via JPA)
 ​ORM: Hibernate
 
-​Testing Tool: Postman
-
-​📸 API Testing (Postman)
-​Tip: You can drag and drop your Postman screenshots here.
-​⚙️ Installation & Setup
+​📸 Testing Tool: Postman
 
 SCREENSHOTS
 
