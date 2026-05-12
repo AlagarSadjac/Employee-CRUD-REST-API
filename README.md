@@ -11,15 +11,15 @@ Employee Management System - REST API
 
 Add new employee records with details like Name, Email, and Department.
 
-​Read
+​READ
 
 Retrieve a list of all employees or search for a specific employee by ID.
 
-​Update
+​UPDATE
 
 Modify existing employee information.
 
-​Delete
+​DELETE
 
 Remove employee records from the database.
 
@@ -30,7 +30,9 @@ Remove employee records from the database.
 ​Database: MySQL / PostgreSQL (via JPA)
 ​ORM: Hibernate
 
-​📸 Testing Tool: Postman
+​📸 Testing Tool
+
+ Postman
 
 SCREENSHOTS
 
