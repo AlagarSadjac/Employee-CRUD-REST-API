@@ -1,7 +1,9 @@
 Employee Management System - REST API
 ​This is a robust Backend RESTful API built for managing employee records efficiently. It allows users to perform standard CRUD operations through professional API endpoints.
+
 ​🚀 Live Demo
-​Link: [https://employee-crud-rest-api.onrender.com]
+​Link: (https://employee-crud-rest-api.onrender.com)
+
 ​✨ Features
 ​Create: Add new employee records with details like Name, Email, and Department.
 ​Read: Retrieve a list of all employees or search for a specific employee by ID.
@@ -16,8 +18,6 @@ Employee Management System - REST API
 ​📸 API Testing (Postman)
 ​Tip: You can drag and drop your Postman screenshots here.
 ​⚙️ Installation & Setup
-1. Clone the Repository
-   git clone https://github.com/AlagarSadjac/Employee-CRUD-REST-API.git
 
 SCREENSHOTS
 
@@ -29,9 +29,9 @@ SCREENSHOTS
 
 <img width="1190" height="765" alt="Screenshot 2026-03-21 094437" src="https://github.com/user-attachments/assets/855a55c9-65c9-4432-8e58-5cf238c9d753" />
 
-3. Database Configuration: Update the src/main/resources/application.properties file with your database credentials.
+1. Database Configuration: Update the src/main/resources/application.properties file with your database credentials.
 
-4. Run the application:
+2. Run the application:
 mvn spring-boot:run
 
 Developed By
